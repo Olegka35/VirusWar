@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/GUI/UI.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/client/Client.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/server/Game.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/server/Server.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shared/Connection.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shared/Field.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shared/GameInterface.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shared/Printer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/shared/PrintingInterface.java" charset="windows-1251" />
+  </component>
+</project>
